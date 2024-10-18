@@ -1,4 +1,4 @@
-# Machine Learning HW1 - Fall 2024
+# Machine Learning - Fall 2024
 
 **University of Tehran**
 
